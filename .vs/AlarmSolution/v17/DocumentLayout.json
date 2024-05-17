@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u042F\\source\\repos\\AlarmProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56412931-CD19-4B97-AB0E-24D375ADD0C8}|AlarmProject\\AlarmProject.csproj|c:\\users\\\u044F\\source\\repos\\alarmproject\\alarmproject\\forms\\alarmmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56412931-CD19-4B97-AB0E-24D375ADD0C8}|AlarmProject\\AlarmProject.csproj|solutionrelative:alarmproject\\forms\\alarmmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56412931-CD19-4B97-AB0E-24D375ADD0C8}|AlarmProject\\AlarmProject.csproj|c:\\users\\\u044F\\source\\repos\\alarmproject\\alarmproject\\usercontrols\\alarmcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56412931-CD19-4B97-AB0E-24D375ADD0C8}|AlarmProject\\AlarmProject.csproj|solutionrelative:alarmproject\\usercontrols\\alarmcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56412931-CD19-4B97-AB0E-24D375ADD0C8}|AlarmProject\\AlarmProject.csproj|c:\\users\\\u044F\\source\\repos\\alarmproject\\alarmproject\\data\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56412931-CD19-4B97-AB0E-24D375ADD0C8}|AlarmProject\\AlarmProject.csproj|solutionrelative:alarmproject\\data\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56412931-CD19-4B97-AB0E-24D375ADD0C8}|AlarmProject\\AlarmProject.csproj|c:\\users\\\u044F\\source\\repos\\alarmproject\\alarmproject\\forms\\newalarmcreationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56412931-CD19-4B97-AB0E-24D375ADD0C8}|AlarmProject\\AlarmProject.csproj|solutionrelative:alarmproject\\forms\\newalarmcreationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56412931-CD19-4B97-AB0E-24D375ADD0C8}|AlarmProject\\AlarmProject.csproj|c:\\users\\\u044F\\source\\repos\\alarmproject\\alarmproject\\entityclasses\\alarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56412931-CD19-4B97-AB0E-24D375ADD0C8}|AlarmProject\\AlarmProject.csproj|solutionrelative:alarmproject\\entityclasses\\alarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56412931-CD19-4B97-AB0E-24D375ADD0C8}|AlarmProject\\AlarmProject.csproj|c:\\users\\\u044F\\source\\repos\\alarmproject\\alarmproject\\usercontrols\\alarmcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56412931-CD19-4B97-AB0E-24D375ADD0C8}|AlarmProject\\AlarmProject.csproj|solutionrelative:alarmproject\\usercontrols\\alarmcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56412931-CD19-4B97-AB0E-24D375ADD0C8}|AlarmProject\\AlarmProject.csproj|c:\\users\\\u044F\\source\\repos\\alarmproject\\alarmproject\\forms\\newalarmcreationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56412931-CD19-4B97-AB0E-24D375ADD0C8}|AlarmProject\\AlarmProject.csproj|solutionrelative:alarmproject\\forms\\newalarmcreationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56412931-CD19-4B97-AB0E-24D375ADD0C8}|AlarmProject\\AlarmProject.csproj|c:\\users\\\u044F\\source\\repos\\alarmproject\\alarmproject\\forms\\alarmmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56412931-CD19-4B97-AB0E-24D375ADD0C8}|AlarmProject\\AlarmProject.csproj|solutionrelative:alarmproject\\forms\\alarmmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56412931-CD19-4B97-AB0E-24D375ADD0C8}|AlarmProject\\AlarmProject.csproj|c:\\users\\\u044F\\source\\repos\\alarmproject\\alarmproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56412931-CD19-4B97-AB0E-24D375ADD0C8}|AlarmProject\\AlarmProject.csproj|solutionrelative:alarmproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Alarm.cs",
+              "DocumentMoniker": "C:\\Users\\\u042F\\source\\repos\\AlarmProject\\AlarmProject\\EntityClasses\\Alarm.cs",
+              "RelativeDocumentMoniker": "AlarmProject\\EntityClasses\\Alarm.cs",
+              "ToolTip": "C:\\Users\\\u042F\\source\\repos\\AlarmProject\\AlarmProject\\EntityClasses\\Alarm.cs",
+              "RelativeToolTip": "AlarmProject\\EntityClasses\\Alarm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:04:24.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "data.json",
+              "DocumentMoniker": "C:\\Users\\\u042F\\Source\\Repos\\AlarmProject\\AlarmProject\\Data\\data.json",
+              "RelativeDocumentMoniker": "AlarmProject\\Data\\data.json",
+              "ToolTip": "C:\\Users\\\u042F\\Source\\Repos\\AlarmProject\\AlarmProject\\Data\\data.json",
+              "RelativeToolTip": "AlarmProject\\Data\\data.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAADAgAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T13:46:35.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewAlarmCreationForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u042F\\source\\repos\\AlarmProject\\AlarmProject\\Forms\\NewAlarmCreationForm.cs",
+              "RelativeDocumentMoniker": "AlarmProject\\Forms\\NewAlarmCreationForm.cs",
+              "ToolTip": "C:\\Users\\\u042F\\source\\repos\\AlarmProject\\AlarmProject\\Forms\\NewAlarmCreationForm.cs",
+              "RelativeToolTip": "AlarmProject\\Forms\\NewAlarmCreationForm.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAIAwwFMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:03:48.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlarmMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u042F\\source\\repos\\AlarmProject\\AlarmProject\\Forms\\AlarmMainForm.cs",
+              "RelativeDocumentMoniker": "AlarmProject\\Forms\\AlarmMainForm.cs",
+              "ToolTip": "C:\\Users\\\u042F\\source\\repos\\AlarmProject\\AlarmProject\\Forms\\AlarmMainForm.cs",
+              "RelativeToolTip": "AlarmProject\\Forms\\AlarmMainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:52:20.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlarmControl.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\\u042F\\source\\repos\\AlarmProject\\AlarmProject\\UserControls\\AlarmControl.cs",
+              "RelativeDocumentMoniker": "AlarmProject\\UserControls\\AlarmControl.cs",
+              "ToolTip": "C:\\Users\\\u042F\\source\\repos\\AlarmProject\\AlarmProject\\UserControls\\AlarmControl.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "AlarmProject\\UserControls\\AlarmControl.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:02:32.849Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlarmControl.cs",
+              "DocumentMoniker": "C:\\Users\\\u042F\\source\\repos\\AlarmProject\\AlarmProject\\UserControls\\AlarmControl.cs",
+              "RelativeDocumentMoniker": "AlarmProject\\UserControls\\AlarmControl.cs",
+              "ToolTip": "C:\\Users\\\u042F\\source\\repos\\AlarmProject\\AlarmProject\\UserControls\\AlarmControl.cs",
+              "RelativeToolTip": "AlarmProject\\UserControls\\AlarmControl.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwHwAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:02:37.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlarmMainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\\u042F\\source\\repos\\AlarmProject\\AlarmProject\\Forms\\AlarmMainForm.cs",
+              "RelativeDocumentMoniker": "AlarmProject\\Forms\\AlarmMainForm.cs",
+              "ToolTip": "C:\\Users\\\u042F\\source\\repos\\AlarmProject\\AlarmProject\\Forms\\AlarmMainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "AlarmProject\\Forms\\AlarmMainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:32:42.8Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewAlarmCreationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\\u042F\\source\\repos\\AlarmProject\\AlarmProject\\Forms\\NewAlarmCreationForm.cs",
+              "RelativeDocumentMoniker": "AlarmProject\\Forms\\NewAlarmCreationForm.cs",
+              "ToolTip": "C:\\Users\\\u042F\\source\\repos\\AlarmProject\\AlarmProject\\Forms\\NewAlarmCreationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "AlarmProject\\Forms\\NewAlarmCreationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:32:44.131Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u042F\\source\\repos\\AlarmProject\\AlarmProject\\Program.cs",
+              "RelativeDocumentMoniker": "AlarmProject\\Program.cs",
+              "ToolTip": "C:\\Users\\\u042F\\source\\repos\\AlarmProject\\AlarmProject\\Program.cs",
+              "RelativeToolTip": "AlarmProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:52:16.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
